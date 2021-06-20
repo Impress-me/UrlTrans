@@ -1,4 +1,4 @@
-module URLTRANS {
+module UrlTrans {
 	
 	requires transitive javafx.graphics;
 	requires transitive javafx.controls;
